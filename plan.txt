@@ -1,0 +1,24 @@
+Project 3 step-by-step plan:
+
+Step 1:
+    I will create my main menu loop.
+Step 2:
+    Will create a basic if case for each of the 4 main options. I'll put a random print statement
+    in each to make sure they work properly
+Step 3:
+    Create a global variable for the balance amount. Then create an f-string in option 1 to show a message
+    for amount in the balance including a dollar sign.
+Step 4:
+    Prompt the user for money to put into the total balance variable in option 2. Add that amount to the total balance.
+Step 5:
+    In option 3, I'll prompt the user to take money out of their total. If they try taking more than they have, I'll
+    give an error message by using if/else statements
+Step 6:
+    Create a global variable to prompt for the user account and pin number. Replace instances of "you" and "your" in my
+    messages to output the username given.
+Step 7:
+    Create a global variable prompt for the user PIN. Create an if check in the withdraw section to see if
+    they are allowed to withdraw from this account.
+Step 8:
+    TEST TEST TEST. Test everything all together and make sure nothing has any holes. Add small tweaks where
+    I might want something to look more polished.
